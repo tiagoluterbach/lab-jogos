@@ -11,5 +11,5 @@ Todos os projetos deste repositório foram construídos em **Python** utilizando
 Ao longo do semestre, os seguintes jogos estão sendo desenvolvidos:
 
 * `Pong` - Primeira etapa: recriação do clássico Pong.
-* `Space Invaders/` - Segunda etapa: desenvolvimento do clássico Space Invaders.
-* `Straw Hat Odysey/` - Projeto final da disciplina.
+* `Space Invaders` - Segunda etapa: desenvolvimento do clássico Space Invaders.
+* `Straw Hat Odyssey` - Projeto final da disciplina.
