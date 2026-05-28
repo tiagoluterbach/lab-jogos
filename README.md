@@ -12,4 +12,4 @@ Ao longo do semestre, os seguintes jogos estão sendo desenvolvidos:
 
 * `Pong` - Primeira etapa: recriação do clássico Pong.
 * `Space Invaders` - Segunda etapa: desenvolvimento do clássico Space Invaders.
-* `Straw Hat Odyssey` - Projeto final da disciplina.
+* `Straw Hat Odyssey` - Projeto final da disciplina jogo autoral.
